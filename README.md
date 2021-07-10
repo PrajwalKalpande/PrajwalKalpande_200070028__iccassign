@@ -1,4 +1,4 @@
-# PrajwalKalpande_200070028__iccassign
+# Learnt backend for fist time
 **PHP and MySQL**
 *Includes two projects*:
 1.Comment page
